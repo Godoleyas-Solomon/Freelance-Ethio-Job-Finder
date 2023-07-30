@@ -34,5 +34,5 @@ AI list
 
 When you are done simply execute
 ```
-python main.py
+python app.py
 ```
