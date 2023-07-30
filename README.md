@@ -11,7 +11,7 @@ telethon
 ## Usage
 ```
 bash
-git clone https://git
+git clone https://github.com/Godoleyas-Solomon/Freelance-Ethio-Job-Finder.git
 cd Freelance-Ethio-Job-Finder
 pip install -r requirements.txt
 cp sampleconfig.py config.py
